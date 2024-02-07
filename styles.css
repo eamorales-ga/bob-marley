@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://www.ultimate-guitar.com/static/article/news/0/116630_0_meta_ver1614268561.jpg);
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+.txt{
+    color:#663399;
+    background-color: #D8BFD8;
+    padding: 10px;
+    width: 600px;
+}
+.tt{
+    background-color: darkorchid ;
+    color: beige;
+    padding: 10px;
+    width: 600px;
+}
+.tx{
+    background-color: #BC8F8F;
+    color: #FFE4E1;
+    padding: 10px;
+    width: 600px;
+}
+.headings{
+    color: #DDA0DD;
+    background-color: #E6E6FA;
+    padding: 10px;
+}
+.par{
+    color: #DB7093;
+    background-color: #FAF0E6;
+    padding: 10px;
+    width: 1000px;
+}
